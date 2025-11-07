@@ -2,6 +2,8 @@
 
 An interactive web app to predict Iris species from sepal/petal measurements.  
 Built with Streamlit and scikit-learn.
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](<https://app-iris-app-aiml-9xumafohvbmtrcovvbrbsu.streamlit.app/>)
+
 
 ## 🚀 Features
 - Choose model: Decision Tree or KNN
